@@ -1,3 +1,5 @@
+# OwebsCMS
+Project to try out Laravel 10 with Inertia.js and Vue 3
 ## Development
 ### Before first run
 * Add sail alias to your terminal
